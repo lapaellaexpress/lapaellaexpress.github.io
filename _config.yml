@@ -103,14 +103,14 @@ analytics:
 # Site Author
 author:
   name             : "Claudia Bruni & Guillermo Calderon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/IMG_88B92F97C8AE-1.jpeg"
+  bio              : "La **mejor** Paella de El Salvador."
   location         : "San Salvador, El Salvador"
   email            : "lapaellaexpress.sv@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lapaellaexpress.sv@gmail.com"
+      # url: "mailto:lapaellaexpress.sv@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
