@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "lapaellaexpress/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "La Paella Express"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Cocina Española a domicilio."
 name                     : "Rodrigo Calderon"
 description              : "Cocina Española a domicilio."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/lapaellaexpress.sv/"
 
 
 # Reading Files
