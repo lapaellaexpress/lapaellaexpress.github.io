@@ -149,7 +149,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lapaellaexpress.sv/"
 
-
+include: ["_pages"]
 # Reading Files
 include:
   - .htaccess
