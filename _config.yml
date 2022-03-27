@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true #, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Claudia Bruni & Guillermo Calderon"
   avatar           : "/assets/IMG_88B92F97C8AE-1.jpeg"
-  bio              : "La **verdadera** Paella y otros platos Españoles a domicilio en El Salvador."
+  bio              : "La **verdadera** paella española y otros platos a domicilio en El Salvador."
   location         : "San Salvador, El Salvador"
   email            : "lapaellaexpress.sv@gmail.com"
   links:
@@ -125,7 +125,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/lapaellaexpress.sv/"
 
 # Site Footer
 footer:
@@ -153,7 +153,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _pages/*
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
