@@ -1,8 +1,7 @@
 ---
-layout: "pages"
-title: "Contactos"
+title: "Contacto"
 author: "Rodrigo Calderon"
-
+permalink: /_pages/contact/
 ---
 
 
