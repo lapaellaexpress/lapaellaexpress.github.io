@@ -1,5 +1,6 @@
 ---
-title: "Contacto"
+layout: "page"
+title: Contactanos
 author: "Rodrigo Calderon"
 permalink: /_pages/contact/
 ---
