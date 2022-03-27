@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "Menu"
-    url: /_pages/menu.md
+    url: /_pages/menu
   # - title: "Quick-Start Guide"
     #url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Contáctanos"
-    url: /_pages/contact.md
+    url: /_pages/contact
   #   url: /year-archive/
   - title: "Pedidos"
-    url: /_pages/pedidos.md
+    url: /_pages/pedidos
   #   url: /collection-archive/
   - title: "Sitemap"
   #   url: /sitemap/
