@@ -21,10 +21,10 @@ title_separator          : "-"
 subtitle                 : "Cocina Española a domicilio."
 name                     : "Rodrigo Calderon"
 description              : "Cocina Española a domicilio."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://lapaellaexpress.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "lapaellaexpress/lapaellaexpress.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     :  "/assets/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
